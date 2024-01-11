@@ -71,7 +71,7 @@ Youtube api kuralları gereği her bir yeni istek bir doğrulama ekranına yönl
 
 
 ### Oluşturulmuş Olan Veri seti'nin Görseli:
-![data_set](bdrtr/youtube_stock_predict/issues/#17)
+![data_set](bdrtr/youtube_stock_predict/issues/veri_seti_foto)
 
 
 # Yorumların Temizlenmesi ve Lemmatization İşlemi

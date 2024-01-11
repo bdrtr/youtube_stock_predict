@@ -63,7 +63,7 @@ Bu sorgu transcipt için istekte bulunur
 
 Youtube api kuralları gereği her bir yeni istek bir doğrulama ekranına yönlendirilir bu nedenle program kapatılıp açılması bir son kullanıcıya ihtiyaç duyar
 
-![doğrulama ekranı](image/assets/dogrulama_ekrani.png)
+![doğrulama ekranı](image/assets/dogrulama_ekran.png)
 
 ### Verilerin Çekilme Süreleri:
 

@@ -128,7 +128,7 @@ Naive Bayes                |  Support Vector Machine
 ### Modellerin Hata Oranları
 - Modelin inceliklerini anlamaya çalıştığımızda yorumlar keskinleşince bayes yanlış sonuç veriyor.
 
-![inceleme](image/assets/msqe.png)
+![inceleme](image/assets/model_inceleme.png)
 
 Modellerin hata oranlarını tespit etmek için 2 farklı metrik kullanılmıştır. Bunlar Ortalama Kare Hatası(MSE) ve Ortalama Mutlak Hata(MAE) dir.
 

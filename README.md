@@ -112,7 +112,7 @@ Modelin başarısını doğru şekilde ölçebilmek için modeli eğittiğimiz v
 
 Verisetini parçalamak için train_test_split() fonksiyonu kullanılmıştır.
 
-### Tweetlerin Vektörel Matrisinin Çıkarılması
+### Yorumlar Vektörel Matrisinin Çıkarılması
 Yorumlar metinden oluştuğu için bunun bilgisayar ortamında işlenmesi mümkün değildir bu yüzden veriler sayısal değerlere dönüştürülmelidir. Bir sözlük oluşturularak dökümandaki her kelime için bir indexleme yapılır. Daha sonra hangi index numarasına sahip kelimenin hangi yorumda kaç kere geçtiği hesaplanarak sayma matrisi oluşturulur. Bu işlemi yaparken tf-idf vectorizer kullanılarak bir kelimenin döküman içindeki önemi istatistiksel olarak hesaplanmıştır. Bu sayede her tweette geçen model için anlamsız kelimelerin önemi düşürülmüştür yani stopwordsler tekrardan ayıklanmıştır.
 
 ### Modellerin Eğitilmesi
